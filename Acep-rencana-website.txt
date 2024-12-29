@@ -3,6 +3,10 @@ RENCANA WEBSITE ACEP
 - Nama-Nama sekolah
   * TK
   * SD
+    ^ Karakter
+    ^ data siswa
 - Data murid
 - Peta sekolah
+  ^ Desa
 - Nama-Nama Guru
+- Guru ASN
