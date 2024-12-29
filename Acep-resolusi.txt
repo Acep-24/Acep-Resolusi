@@ -1,4 +1,4 @@
 ACEP RESOLUSI
-Kosisten untuk belajar Frontend setiap hari
+Konsisten untuk belajar Frontend setiap hari
 Membuat platform untuk pengelolaan website
 Membuat forum diskusi
